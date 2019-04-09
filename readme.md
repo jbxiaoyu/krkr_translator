@@ -1,7 +1,9 @@
- 准备工具:
-1.解压工具---GARbro和KrkrExtract
-2.文本编辑器-emeditor
-3.打包工具---krkrrel
+#### 准备工具:
+ 
+### 1.解压工具---GARbro和KrkrExtract
+### 2.文本编辑器-emeditor
+### 3.打包工具---krkrrel
+
 
 
 1.解包data.xp3
