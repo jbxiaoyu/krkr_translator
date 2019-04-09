@@ -1,4 +1,4 @@
-## 准备工具:
+## 准备工具
  
 ### 1.解压工具---GARbro和KrkrExtract
 ### 2.文本编辑器-emeditor
