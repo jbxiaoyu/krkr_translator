@@ -1,7 +1,7 @@
 # 吉里吉里2-kirikiroid2 游戏 机翻汉化工具教程
 
 ## 准备工具:
-### 1.解包工具---GARbro和KrkrExtract
+#### 1.解包工具---GARbro和KrkrExtract
 ### 2.文本编辑器-emeditor
 ### 3.打包工具---krkrrel
 ### 4.吉里吉里_机翻君
