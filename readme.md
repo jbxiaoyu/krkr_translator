@@ -75,11 +75,8 @@ SCN,所有翻译好的文本位于翻译文件的目录下的\trans_cn_****\目�
 
 #### 其他:
 
-##### 新浪博客
-http://blog.sina.com.cn/u/1403364340
+##### 新浪博客--http://blog.sina.com.cn/u/1403364340
 
-##### QQ空间
-https://user.qzone.qq.com/27001095
+##### QQ空间--https://user.qzone.qq.com/27001095
 
-##### 项目地址
-https://sh2288.github.io/krkr_translator
+##### Git地址--https://sh2288.github.io/krkr_translator
