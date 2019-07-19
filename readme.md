@@ -1,5 +1,6 @@
 # 文字游戏 翻译君 使用说明 2019-06-25
 
+![image](https://sh2288.github.io/krkr_translator/img/2019-07-19-%E5%9B%BE%E5%83%8F%20000.png)
 ### 文字游戏 翻译君 QQ群 [38552538](https://shang.qq.com/wpa/qunwpa?idkey=750821134ca5569c2215b66c9593df40851d615fe92aa5633af297a6cba96420)
 
 #### 软件特性:
