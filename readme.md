@@ -3,6 +3,8 @@
 
 ### 文字游戏 翻译君 QQ群 [38552538](https://shang.qq.com/wpa/qunwpa?idkey=750821134ca5569c2215b66c9593df40851d615fe92aa5633af297a6cba96420)
 ![image](img/2019-07-19-img-000.png)
+![image](img/2019-07-19-img-001.png)
+![image](img/2019-07-19-img-002.png)
 #### 软件特性:
 ```
 1.文本文件任意支持的语言(见API支持语言列表)翻译成中文(并不局限于ks或scn文件)
