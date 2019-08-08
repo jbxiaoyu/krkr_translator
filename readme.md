@@ -2,9 +2,6 @@
 
 
 ### 文字游戏 翻译君 QQ群 [38552538](https://shang.qq.com/wpa/qunwpa?idkey=750821134ca5569c2215b66c9593df40851d615fe92aa5633af297a6cba96420) [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 或git根目录
-![image](img/2019-07-19-img-000.png)
-![image](img/2019-07-19-img-001.png)
-![image](img/2019-07-19-img-002.png)
 >#### 最新消息
 ```
 2019-08-08
@@ -14,6 +11,9 @@
 2019-07-19
 百度翻译api更新,限制了api每秒调用次数,多线程不可用(以前用多线程可是很快的)
 ```
+![image](img/2019-07-19-img-000.png)
+![image](img/2019-07-19-img-001.png)
+![image](img/2019-07-19-img-002.png)
 >#### 软件特性:
 ```
 1.文本文件任意支持的语言(见API支持语言列表)翻译成中文(并不局限于ks或scn文件)
