@@ -4,6 +4,9 @@
 ### 文字游戏 翻译君 QQ群 [38552538](https://shang.qq.com/wpa/qunwpa?idkey=750821134ca5569c2215b66c9593df40851d615fe92aa5633af297a6cba96420) [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 或git根目录
 >#### 最新消息
 ```
+2019-08-16
+游戏汉化翻译流程图解
+![image](汉化流程图解.png)
 2019-08-08
 测试翻译的代码,忘记更改请求限制了,虽然不影响正式翻译,周末更正
 2019-08-04
