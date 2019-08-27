@@ -4,6 +4,8 @@
 ### 文字游戏 翻译君 QQ群 [38552538](https://shang.qq.com/wpa/qunwpa?idkey=750821134ca5569c2215b66c9593df40851d615fe92aa5633af297a6cba96420) [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 或git根目录
 >#### 最新消息
 ```
+2019-08-27
+加入QPS选项设置后,百度的超限问题是没了,但又多了超时问题,解决中...
 2019-08-26
 加入百度和腾讯API的QPS选项设置
 百度高级版设置10,普通版设置1,腾讯设置5
