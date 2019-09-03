@@ -4,6 +4,8 @@
 ### 文字游戏 翻译君 QQ群 [38552538](https://shang.qq.com/wpa/qunwpa?idkey=750821134ca5569c2215b66c9593df40851d615fe92aa5633af297a6cba96420) [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 或git根目录
 >#### 最新消息
 ```
+2019-09-03
+过滤文本正则表达式仓库建立 [链接](https://sh2288.github.io/krkr_translator/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F_%E4%BB%93%E5%BA%93(%E6%8C%89%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%88%86%E7%B1%BB-%E9%80%9A%E8%BF%87%E7%B2%98%E8%B4%B4%E5%AF%BC%E5%85%A5%E5%8D%B3%E5%8F%AF%E4%BD%BF%E7%94%A8).md)
 2019-08-28
 当百度API的返回错误时,进行5次重试,极大减少百度API的出错几率,自定错误码正则为 --bd.*?bd--
 2019-08-27
