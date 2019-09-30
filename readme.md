@@ -5,7 +5,7 @@
 
 >#### [B站视频教程](https://www.bilibili.com/video/av69298736)
 >#### [youtube视频教程](https://youtu.be/8aXjUVPenW8)
-![image](img/图像3_meitu_1.jpg)
+![image](img/图像-7.png)
 >#### 最新消息
 ```
 2019-09-26
