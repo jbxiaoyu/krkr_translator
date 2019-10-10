@@ -49,6 +49,13 @@
 13.加入自动激活功能,目前只支持支付宝付款后的自动激活
 14.针对百度和腾讯的翻译API,添加QPS选项,百度高级版设置10,普通版设置1,腾讯设置5
 ```
+>#### 文字游戏_翻译君 内置工具列表 软件目录\data\下的工具不请要改动
+* \tools\ Emeditor(支持多编码转换的文本编辑器)
+* \data\ PsbTextDumperV2和PsbTextInserter(PSB文本命令行处理工具)(SCN这个后面详细说)
+* \tools\ GARbro(解包打包)
+* \data\ krkrrel(打包)
+* \tools\ XP3Viewer.exe(解包打包)(待添加)
+* \tools\ KrkrExtract4.0.1.4(解包打包)
 
 >#### 已知BUG:(请尽量避免以下操作)
 ```
