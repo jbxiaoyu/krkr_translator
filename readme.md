@@ -1,4 +1,4 @@
-# 文字游戏 翻译君 使用说明 2019-12-22![image](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-2019--12--22-brightgreen)
+# 文字游戏 翻译君 使用说明 2019-12-22![image](https://img.shields.io/badge/最新版本-2019--12--22-brightgreen)
 ## 本软件采用后续更新免费制度(一次激活永久享用)
 >#### 2019-12-22更新说明
 
