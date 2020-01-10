@@ -1,5 +1,5 @@
 # 文字游戏 翻译君
-![image](https://img.shields.io/badge/最新版本-2019--12--22-orange)  ![image](https://img.shields.io/badge/官方QQ群-38552538-ff69b4)  ![image](https://img.shields.io/badge/.net-4.5.2-brightgreen) ![image](https://img.shields.io/badge/windows-x86/x64-blue)
+![image](https://img.shields.io/badge/最新版本-2019--12--22-orange)  ![image](https://img.shields.io/badge/官方QQ群-38552538-ff69b4)  ![image](https://img.shields.io/badge/.net-4.5.2-brightgreen?style=flat&logo=appveyor) ![image](https://img.shields.io/badge/windows-x86/x64-blue)
 ## 本软件采用后续更新免费制度(一次激活永久享用)
 >#### 2019-12-22更新说明
 
