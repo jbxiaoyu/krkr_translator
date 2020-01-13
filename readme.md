@@ -1,5 +1,5 @@
-# 文字游戏 翻译君 ![image](https://img.shields.io/badge/最新版本-2019--12--22-orange)  
-![image](https://img.shields.io/badge/官方QQ群-38552538-ff69b4?style=flat&logo=tencent-qq)  ![image](https://img.shields.io/badge/.NET-4.5.2-brightgreen?style=flat&logo=.net) ![image](https://img.shields.io/badge/windows/xp/7/8/10-x86/x64-blue?style=flat&logo=windows)
+# 文字游戏 翻译君 
+![image](https://img.shields.io/badge/最新版本-2019--12--22-orange)  ![image](https://img.shields.io/badge/官方QQ群-38552538-ff69b4?style=flat&logo=tencent-qq)  ![image](https://img.shields.io/badge/.NET-4.5.2-brightgreen?style=flat&logo=.net) ![image](https://img.shields.io/badge/windows/xp/7/8/10-x86/x64-blue?style=flat&logo=windows)
 ## 本软件采用后续更新免费制度(一次激活永久享用)
 >#### 2019-12-22更新说明
 
