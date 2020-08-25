@@ -2,6 +2,11 @@
 ![image](https://img.shields.io/badge/最新版本-2020--08--21-orange)  ![image](https://img.shields.io/badge/官方QQ群-38552538-ff69b4?style=flat&logo=tencent-qq)  ![image](https://img.shields.io/badge/.NET-4.5.2-brightgreen?style=flat&logo=.net) ![image](https://img.shields.io/badge/windows/xp/7/8/10-x86/x64-blue?style=flat&logo=windows)
 ## 本软件采用后续更新免费制度(激活方式--硬件绑定)
 >#### [码云项目地址](https://gitee.com/sh2288/krkr_translator)
+>#### 2020-08-21
+
+1.修复激活支付宝接口错误
+2.开放有道API翻译接口(无需激活)
+
 >#### 2019-12-22更新说明
 
 1. 添加彩云小译API接口
@@ -14,6 +19,9 @@
 ![image](img/图像-7.png)
 >#### 最新消息
 ```
+2020-08-21
+1.修复激活支付宝接口错误
+2.开放有道API翻译接口(无需激活)
 2020-04-24
 Ren'PY引擎,直接翻译支持?
 2020-04-23
